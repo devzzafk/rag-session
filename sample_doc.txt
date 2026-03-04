@@ -1,0 +1,11 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine learning is a subset of AI that focuses on learning patterns from data.
+
+Deep learning is a type of machine learning that uses neural networks with many layers.
+
+Retrieval Augmented Generation (RAG) improves language models by retrieving relevant documents before generating answers.
+
+Vector databases store text as numerical embeddings to enable semantic search.
+
+Embeddings represent the meaning of text in high-dimensional space.
